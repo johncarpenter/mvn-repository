@@ -17,13 +17,13 @@
 <project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
     <modelVersion>4.0.0</modelVersion>
     <parent>
-        <groupId>com.twolinessoftware.android.jts</groupId>
+        <groupId>com.twolinessoftware.android.orm</groupId>
         <artifactId>parent</artifactId>
-        <version>1.0.0-SNAPSHOT</version>
+        <version>1.0.1</version>
     </parent>
-    <artifactId>JTSProvider</artifactId>
-    <packaging>apk</packaging>
-    <name>Android JTS ContentProvider Helpers</name>
+    <artifactId>ORMProvider</artifactId>
+    <packaging>jar</packaging>
+    <name>Android ContentProvider Helpers</name>
 
     <dependencies>
         <dependency>
